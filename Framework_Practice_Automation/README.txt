@@ -86,3 +86,5 @@ Test Cases:
                                 'test_woman_dresses.py'
 
 Log                     test_log.txt
+
+Tests should be run in Python. 
