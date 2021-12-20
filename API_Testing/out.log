@@ -1,0 +1,24 @@
+2021-11-01 23:15:42,928:             - INFO:Connected to https://jsonplaceholder.typicode.com/posts
+2021-11-01 23:15:42,931:             - DEBUG:Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2021-11-01 23:15:43,348:             - DEBUG:https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 95
+2021-11-01 23:15:43,349:             - INFO:Success POST!
+2021-11-01 23:15:43,350:             - INFO:Validation is OK!
+2021-11-01 23:15:43,350:             - INFO:DATA ARE EQUAL
+2021-11-01 23:18:34,075:             - INFO:Connected to https://jsonplaceholder.typicode.com/posts
+2021-11-01 23:18:34,077:             - DEBUG:Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2021-11-01 23:18:34,446:             - DEBUG:https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 95
+2021-11-01 23:18:34,450:             - INFO:Success POST!
+2021-11-01 23:18:34,453:             - INFO:Validation is OK!
+2021-11-01 23:18:34,453:             - INFO:DATA ARE EQUAL
+2021-11-01 23:23:40,450:             - INFO:Connected to https://jsonplaceholder.typicode.com/posts
+2021-11-01 23:23:40,454:             - DEBUG:Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2021-11-01 23:23:40,861:             - DEBUG:https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 95
+2021-11-01 23:23:40,862:             - INFO:Success POST!
+2021-11-01 23:23:40,863:             - INFO:Validation is OK!
+2021-11-01 23:23:40,863:             - INFO:DATA ARE EQUAL
+2021-11-02 10:20:36,963:             - INFO:Connected to https://jsonplaceholder.typicode.com/posts
+2021-11-02 10:20:36,966:             - DEBUG:Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2021-11-02 10:20:37,427:             - DEBUG:https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 95
+2021-11-02 10:20:37,429:             - INFO:Success POST!
+2021-11-02 10:20:37,430:             - INFO:Validation is OK!
+2021-11-02 10:20:37,430:             - INFO:DATA ARE EQUAL
