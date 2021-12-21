@@ -52,7 +52,7 @@ def get_empty_bag():
     try:
         remove_items = helpers.find_all(remove_item_btn)
         for i in range(len(remove_items)):
-            to_remove_item = remove_items[i].click()
+            remove_items[i].click()
     except Exception as e:
         test_logger.logger(e)
 

@@ -16,7 +16,7 @@ def add_to_favorites():
     try:
         hearts = helpers.find_all(hearts_to_add_favs)
         for i in range(len(hearts)):
-            faved_item = random.choices(hearts, k=6)[i].click()
+            random.choices(hearts, k=6)[i].click()
         test_logger.logger("Items are favoritized")
     except Exception as e:
         test_logger.logger(e)
