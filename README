@@ -1,0 +1,21 @@
+
+API Documentation - https://jsonplaceholder.typicode.com/posts
+
+TODO - pip install requests, json, logging, marshmallow
+
+  
+input_data.txt          -  includes input text from Final Exam task
+config                  -  includes API URL and path to log file
+requirements.txt        -  includes all required libraries for this project
+out.log                 -  being created during the try-except blocks to keep logging data
+
+Tests to be run:
+
+formatting_input_data   -  gets required data from input_data
+post_user.py            -  makes post request and gets response data 
+validator.py            -  validation schema for received data 
+test.py                 -  makes all calls      
+
+
+Tests should be run in Python. 
+
